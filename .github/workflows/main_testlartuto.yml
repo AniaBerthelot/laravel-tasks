@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'TestLarTuto'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD5969E14D4B48809DE69F2D8E05A0A4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4CFE3C1A56545ADADED53C9C907C246 }}
           package: .
